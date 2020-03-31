@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/gmthit/ussuite/build/lib/libsecp256k1_debug.a  CMakeFiles/secp256k1.dir/upstream/src/secp256k1.c.o
-/usr/bin/ranlib /home/gmthit/ussuite/build/lib/libsecp256k1_debug.a
