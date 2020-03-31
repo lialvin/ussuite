@@ -1,0 +1,14 @@
+/home/gmthit/ussuite/fc/build/CMakeFiles/install/strip.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/edit_cache.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/fc.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/list_install_components.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/install/local.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/rebuild_cache.dir
+/home/gmthit/ussuite/fc/build/CMakeFiles/install.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/install/strip.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/edit_cache.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/list_install_components.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/secp256k1.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/install/local.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/rebuild_cache.dir
+/home/gmthit/ussuite/fc/build/secp256k1/CMakeFiles/install.dir

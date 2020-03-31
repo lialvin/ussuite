@@ -1,0 +1,3 @@
+/home/qicity/ussuite/utilities/build/CMakeFiles/edit_cache.dir
+/home/qicity/ussuite/utilities/build/CMakeFiles/uos_utilities.dir
+/home/qicity/ussuite/utilities/build/CMakeFiles/rebuild_cache.dir

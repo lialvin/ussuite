@@ -1,0 +1,14 @@
+#include <stdint.h>
+#include <uos/utilities/git_revision.hpp>
+
+#define UOS_GIT_REVISION_SHA "@UOS_GIT_REVISION_SHA@"
+#define UOS_GIT_REVISION_UNIX_TIMESTAMP @UOS_GIT_REVISION_UNIX_TIMESTAMP@
+#define UOS_GIT_REVISION_DESCRIPTION "@UOS_GIT_REVISION_DESCRIPTION@"
+
+namespace uosio { namespace utilities {
+
+const char* const git_revision_sha = UOS_GIT_REVISION_SHA;
+const uint32_t git_revision_unix_timestamp = UOS_GIT_REVISION_UNIX_TIMESTAMP;
+const char* const git_revision_description = UOS_GIT_REVISION_DESCRIPTION;
+
+} } // end namespace uosio::utilities

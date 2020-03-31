@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libuos_utilities.a  CMakeFiles/uos_utilities.dir/key_conversion.cpp.o CMakeFiles/uos_utilities.dir/string_escape.cpp.o CMakeFiles/uos_utilities.dir/tempdir.cpp.o CMakeFiles/uos_utilities.dir/words.cpp.o
+/usr/bin/ranlib ../lib/libuos_utilities.a
